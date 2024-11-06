@@ -7,6 +7,7 @@ Current games:
 1. Getaway Shootout (game.html)
 2. Idle Breakout (breakout.html)
 3. Moto X3M (moto-x3m.html)
+4. Tetris
 
 List of games to add:
 1. none right now
