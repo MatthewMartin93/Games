@@ -1,7 +1,7 @@
 # How to use Emulator
 This is an emulator powered by [Emulatrix](https://github.com/lrusso/Emulatrix)!
 
-To use it, go to the [Emulatrix Website](https://www.emulatrix.com/) or download the files and run Emulatrix.htm
+To use it, go to the [Emulatrix Website](https://www.emulatrix.com/) or download the all the files in the Emulator folder and run Emulatrix.htm
 
 # How to play games
 To play games, you need roms.
