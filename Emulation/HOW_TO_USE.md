@@ -11,6 +11,8 @@ Once you have the supported rom file for the supported system (see below), click
 ## Where to find roms
 We are not allowed to distribute this information, but remember that Google is your friend!
 
+We also have roms in the folders with names of sytems
+
 ## Supported Games
 | PLATFORM  | HOW TO PLAY A GAME?  | FILE FORMAT |
 | :------------ |:---------------:| :-----:|
