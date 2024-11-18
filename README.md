@@ -11,7 +11,7 @@
 5. Retro Bowl (rb.html)
 
 ## List of games to add:
-1. none right now
+1. cookie clicker
 
 ## Requesting games
 If you have a game you would like me to add please make an issue with the title of the game.
